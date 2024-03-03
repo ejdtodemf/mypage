@@ -1,0 +1,39 @@
+/* body{
+    margin: 0;
+    background: #303030;
+    color: antiquewhite;
+  } */
+  
+  .title
+  {
+    margin-top: 150px;
+    text-align: center;
+  }
+  
+  .title-sub{
+    text-align: center;
+  }
+  .food{
+    border-radius: 5px;
+    background: rgb(77, 238, 225);
+    color: black;
+    width: 200px;
+    margin: 20px auto;
+    padding: 20px;
+  }
+  
+  .navbar{
+    background-color: lightblue;
+    padding: 20px;
+  }
+  .navbar a{
+    margin-right: 10px;
+    text-decoration: none;
+  }
+  
+  .footer{
+    background-color: ghostwhite;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+  }
